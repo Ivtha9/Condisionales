@@ -1,0 +1,4 @@
+git init -< iniciar el repositorio
+git add . -> añadir el contenido 
+git commit -m "Aquiva un breve descripcion" -> Describir el proyecto
+git push -> subir los cambios
